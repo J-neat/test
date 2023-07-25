@@ -14,21 +14,17 @@ http://its-movietime.com/
 |:------:|:------:|:------:|
 |김효준|박혜림|김정효|
 |[@Khyojun](https://github.com/khyojun)|[@HyeLim_.p](https://github.com/djc06048)|[@J-neat](https://github.com/J-neat)|
-|- 백엔드 서버 베포</br>- Mail Sender</br>- 영화 도메인|- Spring Security</br>- OAuth2.0</br>- JWT</br>- 유저 도메인</br>- 리뷰 도메인</br>- CI 구축|- 흠 뭐쓰지..
+|- 백엔드 서버 배포</br>- API개발|- OAuth2.0</br>- CI 구축</br>- API개발|</br>- API개발
 
 
 
 ## ⚒개발 환경
 ### 📚사용 기술 스택 & 아키텍처
 ![Java 17](https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-4285F4?style=for-the-badge&logo=JWT&logoColor=white)</br>
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=RESTAPI&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-09A3D5?style=for-the-badge&logo=JPA&logoColor=white)
 ![JPQL](https://img.shields.io/badge/JPQL-007396?style=for-the-badge&logo=Java&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-FF9900?style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
