@@ -29,10 +29,6 @@ http://its-movietime.com/
 ![JPA](https://img.shields.io/badge/JPA-09A3D5?style=for-the-badge&logo=JPA&logoColor=white)
 ![JPQL](https://img.shields.io/badge/JPQL-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Kakao OAuth2.0](https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white)
-![Google OAuth 2.0](https://img.shields.io/badge/Google%20OAuth%202.0-4285F4?style=for-the-badge&logo=Google&logoColor=white)
-![Naver OAuth 2.0](https://img.shields.io/badge/Naver%20OAuth%202.0-03C75A?style=for-the-badge&logo=Naver&logoColor=white)
-![Mail Sender](https://img.shields.io/badge/Mail%20Sender-FF5A5F?style=for-the-badge&logo=Mail&logoColor=white)</br>
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-FF9900?style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
@@ -50,8 +46,6 @@ http://its-movietime.com/
 ### 📄협업방식
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=Zoom&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 
 ## 📚아키텍처
