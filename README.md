@@ -20,7 +20,7 @@ http://its-movietime.com/
 
 ## ⚒개발 환경
 ### 📚사용 기술 스택 & 아키텍처
-![Java17](https://img.shields.io/badge/java-007396?style=flat-square&logo=java17&logoColor=white")
+![Java 17](https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white)
