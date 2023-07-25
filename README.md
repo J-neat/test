@@ -14,7 +14,7 @@ http://its-movietime.com/
 |:------:|:------:|:------:|
 |김효준|박혜림|김정효|
 |[@Khyojun](https://github.com/khyojun)|[@HyeLim_.p](https://github.com/djc06048)|[@J-neat](https://github.com/J-neat)|
-|- 백엔드 서버 배포</br>- API개발|- OAuth2.0</br>- CI 구축</br>- API개발|</br>- API개발
+|- CI/CD 구축</br>- API개발|- Spring Security</br>- CI/CD 구축</br>- API개발|</br>- API개발
 
 
 
