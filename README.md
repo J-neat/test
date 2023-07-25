@@ -60,7 +60,7 @@ http://its-movietime.com/
 
 
 ## 📜ERD
-<img src="https://github.com/J-neat/test/assets/115057370/8076eed3-3359-4f6b-a638-de7b4b429a55" width="800" height="600">
+<img src="https://github.com/J-neat/test/blob/main/Copy%20of%20it's_Movie_Time%20(1).png" width="800" height="600">
 
 
 
